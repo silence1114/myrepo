@@ -3,6 +3,7 @@ from PIL import Image
 import os.path
 import numpy as np
 from scipy.misc import imsave
+#test
 path1 = "groundtruth/"
 path2 = "baseline_frrn/"
 savepath = "tmp/"
